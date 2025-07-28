@@ -31,21 +31,16 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vercel,,html,css,bootstrap,c,cpp,docker,express,git,github,jquery,mongodb	,mysql,nestjs,nextjs,nodejs,npm,php,postgres,postman,prisma,react,redux,sqlite,sequelize,tailwind)](https://skillicons.dev)
+#### 🔧 My skills
+
+(https://skillicons.dev/icons?i=js,ts,vercel,html,css,bootstrap,c,cpp,docker,express,git,github,jquery,mongodb,mysql,nestjs,nextjs,nodejs,npm,php,postgres,postman,prisma,react,redux,sqlite,sequelize,tailwind)](https://skillicons.dev)
 
 
 #### 🔧 Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![BLE](https://img.shields.io/badge/BLE-Bluetooth?style=flat-square&logo=bluetooth&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=verizon&logoColor=white)
+
 
 #### 🗃️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
 
 ---
 
