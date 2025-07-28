@@ -1,10 +1,10 @@
 <h1 align="center">Hi there 👋 I'm Bruno Lopes</h1>
 
 <p align="center">
-  <b>Junior Software Engineer</b> | Full-Stack Developer | Growth-Minded Problem Solver 🚀  
+  Junior Software Engineer | Full-Stack Developer | Growth-Minded Problem Solver 🚀  
 </p>
 <p align="center">
-  <b> Javascript/TypeScript, React/Next.js, Node/NestJS | PostgreSQL , mySQL , MongoDB | Always evolving 🚀 
+  Javascript/TypeScript, React/Next.js, Node/NestJS | PostgreSQL , mySQL , MongoDB | Always evolving 🚀 
 </p>
 ---
 
@@ -15,18 +15,14 @@
 - 🧗 I'm constantly pushing my limits to grow personally and technically through projects, courses and self-challenges
 
 
-
----
-
 ### 🛠️ Tech Stack
 
-#### Spoken Languages
 #### 🗣️ Spoken Languages
 
-- [🇵🇹](https://emojipedia.org/) Portuguese (Native)
-- 🇬🇧 English (Fluent)
-- 🇪🇸 Spanish (Intermediate)
-- 🇫🇷 French (Basic)
+- Portuguese (Native)
+- English (Fluent)
+- Spanish (Intermediate)
+- French (Basic)
 
 
 
