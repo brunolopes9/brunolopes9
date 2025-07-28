@@ -48,9 +48,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="center" display="flex" >
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunolopes9&show_icons=true&theme=tokyonight" />
-  <img align =" right" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolopes9&layout=compact&theme=tokyonight" />
+  <img align =" right" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolopes9&layout=compact&theme=tokyonight" />
   </div>
 
 
