@@ -20,18 +20,17 @@
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+#### Spoken Languages
+#### 🗣️ Spoken Languages
 
-#### 🔧 My skills
+- 🇵🇹 Portuguese (Native)
+- 🇬🇧 English (Fluent)
+- 🇪🇸 Spanish (Intermediate)
+- 🇫🇷 French (Basic)
+
+
+
+#### 🔧 Coding Languages
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,php)
 
