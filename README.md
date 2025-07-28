@@ -48,16 +48,19 @@
 
 ### 📊 GitHub Stats
 
-<div align="center" display="flex" >
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunolopes9&show_icons=true&theme=tokyonight" />
-  <img align =" right" " src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolopes9&layout=compact&theme=tokyonight" />
-  </div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=brunolopes9&show_icons=true&theme=tokyonight" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolopes9&layout=compact&theme=tokyonight" width="400"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
 
 ### 🚀 Projects I'm Proud Of
 
-- 🔹 [BLE Factory Monitoring System](https://github.com/brunolopes9/ble-factory-monitoring)
-- 🔹 [Smart Factory Simulator (C++)](https://github.com/brunolopes9/factory-management-simulator)
-- 🔹 [Opportunity Management P]()
