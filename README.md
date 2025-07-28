@@ -48,12 +48,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunolopes9&show_icons=true&theme=tokyonight" />
-  <br/>
-</div>
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolopes9&layout=compact&theme=tokyonight" />
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=brunolopes9&show_icons=true&theme=tokyonight" />
+  <img align =" right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolopes9&layout=compact&theme=tokyonight" />
   </div>
 
 
