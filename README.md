@@ -23,7 +23,7 @@
 #### Spoken Languages
 #### 🗣️ Spoken Languages
 
-- 🇵🇹 Portuguese (Native)
+- [🇵🇹](https://emojipedia.org/) Portuguese (Native)
 - 🇬🇧 English (Fluent)
 - 🇪🇸 Spanish (Intermediate)
 - 🇫🇷 French (Basic)
