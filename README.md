@@ -31,7 +31,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vercel,,html,css,bootstrap,c,cpp,docker,express,git,github,jquery,mongodb	,mysql,nestjs,nextjs,nodejs,npm,php,postgres,postman,prisma,react,redux,sqlite,sequelize,tailwind,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vercel,,html,css,bootstrap,c,cpp,docker,express,git,github,jquery,mongodb	,mysql,nestjs,nextjs,nodejs,npm,php,postgres,postman,prisma,react,redux,sqlite,sequelize,tailwind)](https://skillicons.dev)
 
 
 #### 🔧 Frameworks & Tools
