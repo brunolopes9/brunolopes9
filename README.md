@@ -3,14 +3,18 @@
 <p align="center">
   <b>Junior Software Engineer</b> | Full-Stack Developer | Growth-Minded Problem Solver 🚀  
 </p>
-
+<p align="center">
+  <b> Javascript/TypeScript, React/Next.js, Node/NestJS | PostgreSQL , mySQL , MongoDB | Always evolving 🚀 
+</p>
 ---
 
 ### 🧠 About Me
 - 👨‍💻 Passionate about software that solves **real-world problems**
 - 🔧 Experienced with **web, mobile, real-time systems**, and **IoT**
 - 🎯 My mindset: **Discipline + Execution > Talent**
-- 🧗 I'm constantly pushing my limits to grow personally and technically
+- 🧗 I'm constantly pushing my limits to grow personally and technically through projects, courses and self-challenges
+
+
 
 ---
 
@@ -45,7 +49,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolopes9&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brunolopes9&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolopes9&layout=compact&theme=tokyonight" />
 </div>
 
 ---
