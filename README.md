@@ -33,7 +33,7 @@
 
 #### 🔧 My skills
 
-(https://skillicons.dev/icons?i=js,ts,vercel,html,css,bootstrap,c,cpp,docker,express,git,github,jquery,mongodb,mysql,nestjs,nextjs,nodejs,npm,php,postgres,postman,prisma,react,redux,sqlite,sequelize,tailwind)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,vercel,html,css,bootstrap,c,cpp,docker,express,git,github,jquery,mongodb,mysql,nestjs,nextjs,nodejs,npm,php,postgres,postman,prisma,react,redux,sqlite,sequelize,tailwind)
 
 
 #### 🔧 Frameworks & Tools
