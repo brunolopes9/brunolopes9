@@ -4,7 +4,7 @@
   Junior Software Engineer | Full-Stack Developer | Growth-Minded Problem Solver 🚀  
 </p>
 <p align="center">
-  Javascript/TypeScript, React/Next.js, Node/NestJS | PostgreSQL , mySQL , MongoDB | Always evolving 🚀 
+  Javascript/TypeScript, React/Next.js, Node/NestJS | PostgreSQL , mySQL , MongoDB | C/C++ | Always evolving 🚀 
 </p>
 ---
 
