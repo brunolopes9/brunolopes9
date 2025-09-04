@@ -50,10 +50,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=brunolopes9&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEU_USERNAME&layout=compact&langs_count=8&theme=transparent" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunolopes9&layout=compact&langs_count=8&theme=transparent" alt="Top Langs" />
     </td>
   </tr>
 </table>
