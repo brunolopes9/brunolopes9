@@ -6,6 +6,9 @@
 <p align="center">
   Javascript/TypeScript, React/Next.js, Node/NestJS | PostgreSQL , mySQL , MongoDB | C/C++ | Always evolving 🚀 
 </p>
+
+<p> My Links -> https://brunolopes9.github.io/DevLinks/ </p>
+<p> Portfolio -> https://bruno-folio-8y1g.vercel.app/ </p>
 ---
 
 ### 🧠 About Me
