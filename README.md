@@ -4,7 +4,7 @@
   Junior Software Engineer | Full-Stack Developer | Growth-Minded Problem Solver 🚀  
 </p>
 <p align="center">
-  Javascript/TypeScript, React/Next.js, Node/NestJS | PostgreSQL , mySQL , MongoDB | C/C++ | Always evolving 🚀 
+  Javascript/TypeScript, React/Next.js, Node/NestJS | PostgreSQL , mySQL , MongoDB | C++ / C#  | Always evolving 🚀 
 </p>
 
 <p> My Links -> https://brunolopes9.github.io/DevLinks/ </p>
@@ -31,7 +31,7 @@
 
 #### 🔧 Coding Languages
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c,cpp,php)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,c#,csharp,cpp,php)
 
 
 #### 🔧 Frameworks & Tools
