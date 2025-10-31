@@ -31,7 +31,7 @@
 
 #### 🔧 Coding Languages
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cpp,php)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,cpp,php)
 
 
 #### 🔧 Frameworks & Tools
