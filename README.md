@@ -14,7 +14,6 @@
 ### 🧠 About Me
 - 👨‍💻 Passionate about software that solves **real-world problems**
 - 🔧 Experienced with **web, mobile, real-time systems**, and **IoT**
-- 🎯 My mindset: **Discipline + Execution > Talent**
 - 🧗 I'm constantly pushing my limits to grow personally and technically through projects, courses and self-challenges
 
 
@@ -31,18 +30,18 @@
 
 #### 🔧 Coding Languages
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,cpp,php)
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,cs,dotnet,php)
 
 
 #### 🔧 Frameworks & Tools
 
-![My Skills](https://skillicons.dev/icons?i=vercel,bootstrap,docker,express,git,github,jquery,nestjs,nextjs,nodejs,npm,postman,prisma,react,redux,sequelize,tailwind)
+![My Skills](https://skillicons.dev/icons?i=vercel,bootstrap,express,git,github,jquery,nestjs,nextjs,nodejs,npm,postman,prisma,react,redux,sequelize,tailwind)
 
 
 
 #### 🗃️ Databases
 
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite)
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,docker,redis)
 
 
 
